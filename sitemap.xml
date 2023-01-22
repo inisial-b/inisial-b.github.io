@@ -2,21 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2023-01-21T13:16:43+07:00</lastmod>
+    <loc>/posts/2023-01-17-cara-open-port-firewall-di-windows/</loc>
+    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/my-first-post/</loc>
-    <lastmod>2023-01-21T13:16:43+07:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2023-01-21T13:16:43+07:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>/posts/2023-01-20-remote-database-dari-lokasi-lain-melalui-internet/</loc>
+    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>/tags/mysql/</loc>
+    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
+  </url><url>
+    <loc>/tags/tunneling/</loc>
+    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
+  </url><url>
+    <loc>/categories/tutorial/</loc>
+    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
+  </url><url>
+    <loc>/tags/windows/</loc>
+    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+  </url><url>
+    <loc>/series/</loc>
   </url>
 </urlset>
