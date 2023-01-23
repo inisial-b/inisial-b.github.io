@@ -5,13 +5,31 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Inisial B</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Jan 2023 13:16:43 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 20:00:11 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mysql</title>
       <link>/tags/mysql/</link>
-      <pubDate>Fri, 20 Jan 2023 13:16:43 +0700</pubDate>
+      <pubDate>Sun, 22 Jan 2023 20:00:11 +0700</pubDate>
       
       <guid>/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>port</title>
+      <link>/tags/port/</link>
+      <pubDate>Sun, 22 Jan 2023 20:00:11 +0700</pubDate>
+      
+      <guid>/tags/port/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>/tags/windows/</link>
+      <pubDate>Sun, 22 Jan 2023 20:00:11 +0700</pubDate>
+      
+      <guid>/tags/windows/</guid>
       <description></description>
     </item>
     
@@ -21,15 +39,6 @@
       <pubDate>Fri, 20 Jan 2023 13:16:43 +0700</pubDate>
       
       <guid>/tags/tunneling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>windows</title>
-      <link>/tags/windows/</link>
-      <pubDate>Fri, 20 Jan 2023 13:16:43 +0700</pubDate>
-      
-      <guid>/tags/windows/</guid>
       <description></description>
     </item>
     
