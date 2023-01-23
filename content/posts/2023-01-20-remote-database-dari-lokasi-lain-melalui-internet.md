@@ -1,16 +1,15 @@
 ---
-author : Inisial B
+authors : ["inisialb"]
 title : Install Ngrok
+slug : remote database dari lokasi lain melalui internet
 date : 2023-01-20T13:16:43+07:00
 description : Remote Database dari lokasi lain melalui internet.
-tags : [
-    tunneling,
-    mysql,
-    windows,
-]
-categories : [
-    tutorial
-]
+tags : 
+    - tunneling
+    - mysql
+    - windows
+categories : 
+    - tutorial
 toc : true
 ---
 

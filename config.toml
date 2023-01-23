@@ -124,6 +124,7 @@ author = "authors"
 category = "categories"
 series = "series"
 tag = "tags"
+archive = "archives"
 
 [permalinks]
 page = "/:slug/"
@@ -139,6 +140,11 @@ page = "/:slug/"
   name = 'Post'
   url = '/posts/'
   weight = 20
+[[menu.main]]
+  identifier = "categories"
+  name = 'Category'
+  url = '/categories/'
+  weight = 30
 
 [blackfriday]
 hrefTargetBlank = true
