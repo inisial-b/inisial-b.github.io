@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Inisial B</title>
+    <link>/categories/linux/</link>
+    <description>Recent content in linux on Inisial B</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 24 Jan 2023 08:24:23 +0700</lastBuildDate><atom:link href="/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Ngrok Di Centos 7</title>
+      <link>/posts/install-ngrok-di-centos-7/</link>
+      <pubDate>Tue, 24 Jan 2023 08:24:23 +0700</pubDate>
+      
+      <guid>/posts/install-ngrok-di-centos-7/</guid>
+      <description>Aktifkan Snapd Tambahkan Repositori EPEL dengan perintah berikut:
+$ sudo yum install epel-release Install Snap
+$ sudo yum install snapd Aktifkan snap socket
+$ sudo systemctl enable --now snapd.socket Buat symbolic link
+$ sudo ln -s /var/lib/snapd/snap /snap Install Ngrok Install ngrok
+$ sudo snap install ngrok Tambahkan authtoken, dapatkan token dengan login di situs ngrok
+$ ngrok config add-authtoken &amp;lt;token&amp;gt; Jalankan tunnel tcp 3306 port 3306 adalah port umum MySQL</description>
+    </item>
+    
+    <item>
+      <title>Menjalankan MySQL/MariaDB Di Centos 7</title>
+      <link>/posts/menjalankan-mysql-di-centos-7/</link>
+      <pubDate>Mon, 23 Jan 2023 20:57:13 +0700</pubDate>
+      
+      <guid>/posts/menjalankan-mysql-di-centos-7/</guid>
+      <description>Menjalankan MariaDB/MySQL di CentOS 7 Catatan : Dalam penginstalan CentOS 7 with GUI dan MariaDB Database Server sudah terinstall di dalamnya dengan Mysql/MariaDB Server version: 5.5.60-MariaDB MariaDB Server
+Jalankan service MySQL
+$ systemctl enable mariadb $ systemctl start mariadb Buat User Remote
+Jalan kan perintah mysql untuk masuk ke MySQL :
+$ mysql &amp;gt; create user &amp;#39;root&amp;#39;@&amp;#39;%&amp;#39; identified by &amp;#39;password&amp;#39;; &amp;gt; grant all privileges on *.* to &amp;#39;root&amp;#39;@&amp;#39;%&amp;#39; with grant option; &amp;gt; flush privileges; </description>
+    </item>
+    
+    <item>
+      <title>Membuka Port MySQL dan SSH di CentOS 7</title>
+      <link>/posts/membuka-port-mysql-dan-ssh-di-centos-7/</link>
+      <pubDate>Mon, 23 Jan 2023 20:37:11 +0700</pubDate>
+      
+      <guid>/posts/membuka-port-mysql-dan-ssh-di-centos-7/</guid>
+      <description> Cek status firewall
+systemctl status firewalld Output : Buka Port MySQL dan SSH
+MySQL :
+firewall-cmd –-permanent -–zone=public -–add-port=3306/tcp SSH :
+firewall-cmd –-permanent -–zone=public -–add-port=22/tcp Restart service Firewallld
+systemctl restart firewalld </description>
+    </item>
+    
+    <item>
+      <title>Install Server CentOS 7 With GUI</title>
+      <link>/posts/install-server-centos-7-with-gui/</link>
+      <pubDate>Mon, 23 Jan 2023 14:35:44 +0700</pubDate>
+      
+      <guid>/posts/install-server-centos-7-with-gui/</guid>
+      <description>Boot dari DVD atau USB instalasi CentOS 7. Pilih &amp;ldquo;Install CentOS 7&amp;rdquo; dari menu boot.
+Pilih bahasa yang akan digunakan selama proses instalasi. Pilih Bahasa dan klik &amp;ldquo;Continue&amp;rdquo;.
+Ubah Date &amp;amp; Time menjadi Asia/Jakarta
+Pada &amp;ldquo;Software Selection&amp;rdquo; pilih &amp;ldquo;Server with GUI&amp;rdquo; dan &amp;ldquo;MariaDB Database Server&amp;rdquo;. Klik &amp;ldquo;Done&amp;rdquo;.
+Pada &amp;ldquo;Installation Destination&amp;rdquo; pilih &amp;ldquo;Hard Disk&amp;rdquo; dan pilih &amp;ldquo;I will configure partitioning&amp;rdquo;. Klik &amp;ldquo;Done&amp;rdquo;.
+Konfirmasi klik &amp;ldquo;Accept Changes&amp;rdquo;
+Membuat partisi ada 3 partisi yang dibuat boot, swap dan root, Klik tanda ( + ) untuk membuat partisi</description>
+    </item>
+    
+  </channel>
+</rss>

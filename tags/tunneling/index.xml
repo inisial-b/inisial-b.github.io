@@ -5,13 +5,28 @@
     <link>/tags/tunneling/</link>
     <description>Recent content in tunneling on Inisial B</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Jan 2023 13:16:43 +0700</lastBuildDate><atom:link href="/tags/tunneling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 08:24:23 +0700</lastBuildDate><atom:link href="/tags/tunneling/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install Ngrok</title>
-      <link>/posts/remote-database-dari-lokasi-lain-melalui-internet/</link>
+      <title>Install Ngrok Di Centos 7</title>
+      <link>/posts/install-ngrok-di-centos-7/</link>
+      <pubDate>Tue, 24 Jan 2023 08:24:23 +0700</pubDate>
+      
+      <guid>/posts/install-ngrok-di-centos-7/</guid>
+      <description>Aktifkan Snapd Tambahkan Repositori EPEL dengan perintah berikut:
+$ sudo yum install epel-release Install Snap
+$ sudo yum install snapd Aktifkan snap socket
+$ sudo systemctl enable --now snapd.socket Buat symbolic link
+$ sudo ln -s /var/lib/snapd/snap /snap Install Ngrok Install ngrok
+$ sudo snap install ngrok Tambahkan authtoken, dapatkan token dengan login di situs ngrok
+$ ngrok config add-authtoken &amp;lt;token&amp;gt; Jalankan tunnel tcp 3306 port 3306 adalah port umum MySQL</description>
+    </item>
+    
+    <item>
+      <title>Install Ngrok di Windows</title>
+      <link>/posts/install-ngrok-di-windows/</link>
       <pubDate>Fri, 20 Jan 2023 13:16:43 +0700</pubDate>
       
-      <guid>/posts/remote-database-dari-lokasi-lain-melalui-internet/</guid>
+      <guid>/posts/install-ngrok-di-windows/</guid>
       <description>Apa itu Ngrok? Ngrok adalah perangkat lunak yang memungkinkan Anda untuk me-remote jaringan lokal Anda dan mengaksesnya dari mana saja melalui internet. Ini sangat berguna saat Anda ingin mengakses aplikasi atau server yang dijalankan di komputer Anda dari lokasi lain, seperti dari perangkat mobile atau komputer lainnya.
 Setting Ngrok di Windows Untuk mengatur ngrok dan me-remote TCP port 3306 pada Windows 10, ikuti langkah-langkah berikut:
 Download ngrok dari situs resmi ngrok.</description>

@@ -2,46 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2023-01-22T21:08:24+07:00</lastmod>
-  </url><url>
-    <loc>/posts/2023-01-12-install-mysql-5.7-windows/</loc>
-    <lastmod>2023-01-22T21:08:24+07:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-01-22T21:08:24+07:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
   </url><url>
-    <loc>/authors/inisialb/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
+  </url><url>
+    <loc>/posts/install-ngrok-di-centos-7/</loc>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
+  </url><url>
+    <loc>/categories/linux/</loc>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
   </url><url>
     <loc>/tags/mysql/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
   </url><url>
-    <loc>/posts/open-port-firewall-di-windows/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
-  </url><url>
-    <loc>/tags/port/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
-  </url><url>
-    <loc>/categories/tutorial/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
-  </url><url>
-    <loc>/tags/windows/</loc>
-    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
-  </url><url>
-    <loc>/posts/remote-database-dari-lokasi-lain-melalui-internet/</loc>
-    <lastmod>2023-01-20T13:16:43+07:00</lastmod>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
   </url><url>
     <loc>/tags/tunneling/</loc>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
+  </url><url>
+    <loc>/categories/tutorial/</loc>
+    <lastmod>2023-01-24T08:24:23+07:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-01-23T20:57:13+07:00</lastmod>
+  </url><url>
+    <loc>/tags/centos/</loc>
+    <lastmod>2023-01-23T20:57:13+07:00</lastmod>
+  </url><url>
+    <loc>/authors/inisialb/</loc>
+    <lastmod>2023-01-23T20:57:13+07:00</lastmod>
+  </url><url>
+    <loc>/posts/menjalankan-mysql-di-centos-7/</loc>
+    <lastmod>2023-01-23T20:57:13+07:00</lastmod>
+  </url><url>
+    <loc>/tags/firewall/</loc>
+    <lastmod>2023-01-23T20:37:11+07:00</lastmod>
+  </url><url>
+    <loc>/posts/membuka-port-mysql-dan-ssh-di-centos-7/</loc>
+    <lastmod>2023-01-23T20:37:11+07:00</lastmod>
+  </url><url>
+    <loc>/tags/port/</loc>
+    <lastmod>2023-01-23T20:37:11+07:00</lastmod>
+  </url><url>
+    <loc>/tags/ssh/</loc>
+    <lastmod>2023-01-23T20:37:11+07:00</lastmod>
+  </url><url>
+    <loc>/posts/install-server-centos-7-with-gui/</loc>
+    <lastmod>2023-01-23T14:35:44+07:00</lastmod>
+  </url><url>
+    <loc>/posts/membuka-port-firewall-di-windows/</loc>
+    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
+  </url><url>
+    <loc>/categories/windows/</loc>
+    <lastmod>2023-01-22T20:00:11+07:00</lastmod>
+  </url><url>
+    <loc>/posts/install-ngrok-di-windows/</loc>
     <lastmod>2023-01-20T13:16:43+07:00</lastmod>
   </url><url>
     <loc>/archives/</loc>
