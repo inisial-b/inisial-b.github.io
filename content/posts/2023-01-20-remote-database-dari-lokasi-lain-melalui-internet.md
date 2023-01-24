@@ -1,16 +1,16 @@
 ---
 authors : ["inisialb"]
-title : Install Ngrok
-slug : remote database dari lokasi lain melalui internet
+title : Install Ngrok di Windows
+slug : install ngrok di windows
 date : 2023-01-20T13:16:43+07:00
-description : Remote Database dari lokasi lain melalui internet.
+description : Remote Database dari lokasi lain melalui internet di windows.
 tags : 
     - tunneling
     - mysql
-    - windows
 categories : 
     - tutorial
-toc : true
+    - windows
+toc : false
 ---
 
 ## Apa itu Ngrok?

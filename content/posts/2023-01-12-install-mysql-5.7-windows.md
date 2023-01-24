@@ -1,7 +1,7 @@
 ---
 title: "Install Mysql 5.7 Windows"
 date: 2023-01-22T21:08:24+07:00
-draft: false
+draft: true
 ---
 
 mySQL 5.7: Installation Instructions (Windows)

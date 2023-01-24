@@ -131,18 +131,18 @@ page = "/:slug/"
 
 [menu]
 [[menu.main]]
-  identifier = "home"
-  name = 'Home'
+  identifier = "beranda"
+  name = 'Beranda'
   url = '/'
   weight = 10
 [[menu.main]]
-  identifier = "post"
-  name = 'Post'
+  identifier = "artikel"
+  name = 'Artikel'
   url = '/posts/'
   weight = 20
 [[menu.main]]
   identifier = "categories"
-  name = 'Category'
+  name = 'Kategori'
   url = '/categories/'
   weight = 30
 
